@@ -1,0 +1,7 @@
+kagglehub[pandas-datasets]
+python-dotenv
+openai
+matplotlib
+numpy
+pandas
+datasets
